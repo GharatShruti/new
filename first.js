@@ -15,4 +15,4 @@ const addWork = async (req, res) => {
     }
 };
 
-module.exports = {addWork}
+module.exports = {addWor}
